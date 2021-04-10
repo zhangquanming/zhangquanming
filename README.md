@@ -6,3 +6,12 @@
 - 🏡 潜水地点：[掘金](https://juejin.cn/user/448256473565480) | [segmentfault](https://segmentfault.com/u/mingme)
 - 💬 我的微信：ming419654548
 - 📫 联系邮箱：419654548@qq.com
+
+
+## 年度统计 ✨
+
+<p><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=zhangquanming&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=buefy&locale=cn" /><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangquanming&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=buefy&locale=cn" /></p>
+
+
+## 我的博客 🌱
+ 
